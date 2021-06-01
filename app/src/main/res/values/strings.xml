@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hotstar</string>
+    <string name="photo1">https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9260/889260-h</string>
+    <string name="photo2">https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6769/826769-h</string>
+    <string name="photo3">https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/905/840905-h</string>
+    <string name="photo4">https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/895/830895-h</string>
+    <string name="photo5">https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4720/994720-h</string>
+</resources>
